@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\mateo\\A_Night_With_The_Spice_Latte_Killer\\ANightWithTheSpiceLatteKiller\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9EFCCA5A-4B49-425E-A933-3A2E052B2EBC}|ANightWithTheSpiceLatteKiller.vcxproj|C:\\Users\\mateo\\A_Night_With_The_Spice_Latte_Killer\\ANightWithTheSpiceLatteKiller\\ANightWithTheSpiceLatteKiller.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{9EFCCA5A-4B49-425E-A933-3A2E052B2EBC}|ANightWithTheSpiceLatteKiller.vcxproj|solutionrelative:ANightWithTheSpiceLatteKiller.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{9EFCCA5A-4B49-425E-A933-3A2E052B2EBC}|ANightWithTheSpiceLatteKiller.vcxproj|C:\\Users\\mateo\\A_Night_With_The_Spice_Latte_Killer\\ANightWithTheSpiceLatteKiller\\PlayerMain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9EFCCA5A-4B49-425E-A933-3A2E052B2EBC}|ANightWithTheSpiceLatteKiller.vcxproj|solutionrelative:PlayerMain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EFCCA5A-4B49-425E-A933-3A2E052B2EBC}|ANightWithTheSpiceLatteKiller.vcxproj|C:\\Users\\mateo\\A_Night_With_The_Spice_Latte_Killer\\ANightWithTheSpiceLatteKiller\\PlayerMain.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9EFCCA5A-4B49-425E-A933-3A2E052B2EBC}|ANightWithTheSpiceLatteKiller.vcxproj|solutionrelative:PlayerMain.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,13 +26,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ANightWithTheSpiceLatteKiller.cpp",
-              "DocumentMoniker": "C:\\Users\\mateo\\A_Night_With_The_Spice_Latte_Killer\\ANightWithTheSpiceLatteKiller\\ANightWithTheSpiceLatteKiller.cpp",
-              "RelativeDocumentMoniker": "ANightWithTheSpiceLatteKiller.cpp",
-              "ToolTip": "C:\\Users\\mateo\\A_Night_With_The_Spice_Latte_Killer\\ANightWithTheSpiceLatteKiller\\ANightWithTheSpiceLatteKiller.cpp",
-              "RelativeToolTip": "ANightWithTheSpiceLatteKiller.cpp",
+              "DocumentIndex": 1,
+              "Title": "PlayerMain.h",
+              "DocumentMoniker": "C:\\Users\\mateo\\A_Night_With_The_Spice_Latte_Killer\\ANightWithTheSpiceLatteKiller\\PlayerMain.h",
+              "RelativeDocumentMoniker": "PlayerMain.h",
+              "ToolTip": "C:\\Users\\mateo\\A_Night_With_The_Spice_Latte_Killer\\ANightWithTheSpiceLatteKiller\\PlayerMain.h",
+              "RelativeToolTip": "PlayerMain.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-21T12:44:18.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerMain.cpp",
+              "DocumentMoniker": "C:\\Users\\mateo\\A_Night_With_The_Spice_Latte_Killer\\ANightWithTheSpiceLatteKiller\\PlayerMain.cpp",
+              "RelativeDocumentMoniker": "PlayerMain.cpp",
+              "ToolTip": "C:\\Users\\mateo\\A_Night_With_The_Spice_Latte_Killer\\ANightWithTheSpiceLatteKiller\\PlayerMain.cpp",
+              "RelativeToolTip": "PlayerMain.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-11-21T12:41:08.351Z",
               "EditorCaption": ""
