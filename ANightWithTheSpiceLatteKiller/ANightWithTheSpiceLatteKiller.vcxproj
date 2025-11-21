@@ -123,10 +123,46 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="BaseState.cpp" />
+    <ClCompile Include="ConsolePrinter.cpp" />
+    <ClCompile Include="DialogueManager.cpp" />
+    <ClCompile Include="DialogueUI.cpp" />
+    <ClCompile Include="Door.cpp" />
+    <ClCompile Include="Interactable.cpp" />
+    <ClCompile Include="KillerMain.cpp" />
+    <ClCompile Include="KillerSoundHandler.cpp" />
+    <ClCompile Include="KillerStateBrain.cpp" />
+    <ClCompile Include="LatteComposant.cpp" />
+    <ClCompile Include="MapManager.cpp" />
+    <ClCompile Include="PlayerInteraction.cpp" />
     <ClCompile Include="PlayerMain.cpp" />
+    <ClCompile Include="PlayerMouvement.cpp" />
+    <ClCompile Include="SoundManager.cpp" />
+    <ClCompile Include="StateKiller.cpp" />
+    <ClCompile Include="StateStalker.cpp" />
+    <ClCompile Include="StateWalker.cpp" />
+    <ClCompile Include="StepCounter.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="BaseState.h" />
+    <ClInclude Include="ConsolePrinter.h" />
+    <ClInclude Include="DialogueManager.h" />
+    <ClInclude Include="DialogueUI.h" />
+    <ClInclude Include="Door.h" />
+    <ClInclude Include="Interactable.h" />
+    <ClInclude Include="KillerMain.h" />
+    <ClInclude Include="KillerSoundHandler.h" />
+    <ClInclude Include="KillerStateBrain.h" />
+    <ClInclude Include="LatteComposant.h" />
+    <ClInclude Include="MapManager.h" />
+    <ClInclude Include="PlayerInteraction.h" />
     <ClInclude Include="PlayerMain.h" />
+    <ClInclude Include="PlayerMouvement.h" />
+    <ClInclude Include="SoundManager.h" />
+    <ClInclude Include="StateKiller.h" />
+    <ClInclude Include="StateStalker.h" />
+    <ClInclude Include="StateWalker.h" />
+    <ClInclude Include="StepCounter.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
