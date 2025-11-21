@@ -123,7 +123,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="BaseState.cpp" />
+    <ClCompile Include="StateBase.cpp" />
     <ClCompile Include="ConsolePrinter.cpp" />
     <ClCompile Include="DialogueManager.cpp" />
     <ClCompile Include="DialogueUI.cpp" />
@@ -144,7 +144,7 @@
     <ClCompile Include="StepCounter.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="BaseState.h" />
+    <ClInclude Include="StateBase.h" />
     <ClInclude Include="ConsolePrinter.h" />
     <ClInclude Include="DialogueManager.h" />
     <ClInclude Include="DialogueUI.h" />
